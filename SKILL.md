@@ -3,8 +3,8 @@ name: deep-listening-practice
 description: A complete methodology for compassionate listening that heals relationships and relieves suffering, derived from Thich Nhat Hanh's teaching on restoring communication through mindful presence.
 license: MIT
 metadata:
+  version: 1.0.3797
   author: sethmblack
-  version: 1.0.3796
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - deep-listening-practice
